@@ -1,0 +1,31 @@
+{
+  "Culture": "ar",
+  "Texts": {
+    "Menu:Home": "الرئيسة",
+    "Welcome": "أهلاً",
+    "LongWelcomeMessage": "أهلا بك في هذا المشروع, مشروع تم إنشائة بواسطة إطار عمل ABP",
+    "Menu:BookStore": "محل الكتب",
+    "Menu:Books": "الكتب",
+    "Actions": "Actions",
+    "Close": "إغلاق",
+    "Delete": "حذف",
+    "Edit": "تعديل",
+    "PublishDate": "تاريخ الإصدار",
+    "NewBook": "كتاب جديد",
+    "Name": "الإسم",
+    "Type": "النوع",
+    "Price": "السعر",
+    "CreationTime": "إنشاء عنصر",
+    "AreYouSure": "هل انت متأكد؟",
+    "AreYouSureToDelete": "هل انت متأكد لحذف هذا العنصر ؟",
+    "Enum:BookType:0": "غير محدد",
+    "Enum:BookType:1": "مغامرات",
+    "Enum:BookType:2": "Biography",
+    "Enum:BookType:3": "ديستوبيا",
+    "Enum:BookType:4": "Fantastic",
+    "Enum:BookType:5": "رعب",
+    "Enum:BookType:6": "Science",
+    "Enum:BookType:7": "خيال علمي",
+    "Enum:BookType:8": "Poetry"
+  }
+}
